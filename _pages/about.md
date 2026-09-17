@@ -27,7 +27,7 @@ Junteng Liu is a first-year PhD candidate at the Hong Kong University of Science
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *Arxiv, 2025*  
-   [Code](https://github.com)
+   [Code](https://github.com/Vicent0205/SynLogic)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
    Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  

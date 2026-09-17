@@ -86,7 +86,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'   
   conferences:
     title: 'Conference Papers'
 
@@ -135,8 +135,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 twitter:
   username               : "junteng88716710"
 facebook:
